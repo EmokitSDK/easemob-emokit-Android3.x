@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/guan/Documents/EmoKit/第三方接口/环信/easemob-sdk-3.1.3_R2/examples/ChatDemoUI3.0/redpacketlibrary/libs"><file name="redpacket2.0.jar" path="/Users/guan/Documents/EmoKit/第三方接口/环信/easemob-sdk-3.1.3_R2/examples/ChatDemoUI3.0/redpacketlibrary/libs/redpacket2.0.jar"/></source></dataSet><dataSet config="debug"><source path="/Users/guan/Documents/EmoKit/第三方接口/环信/easemob-sdk-3.1.3_R2/examples/ChatDemoUI3.0/redpacketlibrary/build-types/debug/jniLibs"/></dataSet></merger>
